@@ -1,0 +1,16 @@
+{
+  "name": "API-Request",
+  "version": "1.0.0",
+  "description": "* [] Setup the client * [] Make an API request with javascript * [] Determine how to get the data from the response * [] Add the data from the response to the page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
